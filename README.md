@@ -207,10 +207,7 @@ The solver then computes the correlation between this predicted leakage and the 
 .
 ├── socket_interface.py
 ├── attack.py
-├── README.md
-└── images/
-    ├── remote_lab.png
-    └── cpa_result.png
+└── README.md
 ```
 
 ### File Description
@@ -218,7 +215,6 @@ The solver then computes the correlation between this predicted leakage and the 
 * `socket_interface.py`: helper script provided with the challenge
 * `attack.py`: custom CPA-based solver
 * `README.md`: project write-up
-* `images/`: figures and screenshots used in the documentation
 
 ---
 
