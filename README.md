@@ -8,4 +8,4 @@ This repository contains my Hack The Box hardware challenges writeups.
 - IoT Exploitation
 
 ## Challenges
-- Power Challenge (CPA on AES-128)
+- [Project Power Challenge](./Project_Power_Challenge)
