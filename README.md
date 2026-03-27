@@ -1,4 +1,4 @@
-# HTB Hardware Writeups – Cheima Ammar
+# HTB Hardware Writeups 
 
 This repository contains my Hack The Box hardware challenges writeups.
 
