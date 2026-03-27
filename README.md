@@ -9,3 +9,5 @@ This repository contains my Hack The Box hardware challenges writeups.
 
 ## Challenges
 - [Project Power Challenge](./Project_Power_Challenge)
+- [wander Challenge](./Wander_Challenge)
+- [Trace Challenge](./Trace_Challenge)
